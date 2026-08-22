@@ -1,4 +1,4 @@
-### Stack
+
 <div align="center">
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=3500&pause=1200&color=FFFFFF&center=true&vCenter=true&width=700&lines=FULL+STACK+DEVELOPER;BUILDING+FOR+THE+WEB;AI+%26+AUTOMATION;TURNING+IDEAS+INTO+PRODUCTS" />
@@ -21,7 +21,7 @@ Currently focused on building better products and learning by shipping.
 <table>
 <tr>
 <td align="center" width="180">
-
+### Stack
 **Frontend**
 
 React
