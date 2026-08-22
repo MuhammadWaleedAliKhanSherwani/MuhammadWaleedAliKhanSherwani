@@ -18,10 +18,12 @@ I work across the stack, from interfaces and APIs to databases, AI integrations,
 Currently focused on building better products and learning by shipping.
 <div align="center">
 
+
+### Stack
 <table>
 <tr>
 <td align="center" width="180">
-### Stack
+
 **Frontend**
 
 React
