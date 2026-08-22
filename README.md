@@ -1,61 +1,81 @@
-## GitHub Profile README
+### Stack
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=3500&pause=1200&color=FFFFFF&center=true&vCenter=true&width=700&lines=FULL+STACK+DEVELOPER;BUILDING+FOR+THE+WEB;AI+%26+AUTOMATION;TURNING+IDEAS+INTO+PRODUCTS" />
+<table>
+<tr>
+<td align="center" width="180">
+
+**Frontend**
+
+React
+Next.js
+TypeScript
+HTML / CSS
+
+</td>
+
+<td align="center" width="180">
+
+**Backend**
+
+Python
+FastAPI
+PostgreSQL
+Supabase
+
+</td>
+
+<td align="center" width="180">
+
+**AI**
+
+OpenAI
+LLM APIs
+AI Automation
+Data Processing
+
+</td>
+
+<td align="center" width="180">
+
+**Infrastructure**
+
+Vercel
+Docker
+Git
+CI/CD
+
+</td>
+</tr>
+</table>
+
+</div>
 
 <br>
 
-<p>
-I build web applications, automation systems, and AI-powered products.
-</p>
-
-</div>
-
----
-
-### About
-
-I'm a full-stack developer who enjoys taking an idea from a rough concept to a working product.
-
-I work across the stack, from interfaces and APIs to databases, AI integrations, and deployment.
-
-Currently focused on building better products and learning by shipping.
-
-### Stack
-
-```text
-Frontend     React · Next.js · TypeScript
-Backend      Python · FastAPI
-Database     PostgreSQL · Supabase
-AI           OpenAI · LLM integrations
-Infrastructure
-             Docker · Vercel · CI/CD
-```
-
 ### Selected Work
 
-**Newswire**
-AI-powered news platform with automated classification, deduplication, filtering, and search.
+#### Newswire
 
-**AI & Automation**
-Business systems connecting APIs, databases, AI models, and automated workflows.
+An AI-powered news platform built end-to-end. It automatically classifies news, detects duplicate stories, and makes large volumes of news easier to search and filter.
 
-**Full-Stack Products**
-End-to-end applications built, deployed, and maintained in production.
+**[View the live project](https://ic-news.vercel.app/)**
+
+`Next.js` `AI` `PostgreSQL` `Vercel`
 
 ---
 
-<div align="center">
+#### AI & Automation
 
-<img src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" />
+Building systems that connect AI models, APIs, databases, and business workflows to automate repetitive work and turn manual processes into software.
 
-<br><br>
+`Python` `FastAPI` `OpenAI` `Supabase`
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact&hide_border=true&area=true" />
+---
 
-<br><br>
+#### Full-Stack Products
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=80&section=footer" />
+From frontend to backend, database design, integrations, and deployment. I enjoy owning the whole process rather than just working on one layer.
 
-</div>
+`React` `Next.js` `Python` `PostgreSQL`
